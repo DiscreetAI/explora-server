@@ -26,7 +26,7 @@ hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.3
 kappa==0.6.0
 lambda-packages==0.20.0
